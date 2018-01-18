@@ -1,3 +1,4 @@
+* [Introduction](README.md)
 * [简介](chapter-1/chapter-1-0.md)
   * [序](chapter-1/chapter-1-1.md)
   * [数据挖掘简介及如何使用本书](chapter-1/chapter-1-2.md)
