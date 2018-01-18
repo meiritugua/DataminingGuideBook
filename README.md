@@ -1,5 +1,7 @@
 # 《面向程序员的数据挖掘指南》
 
+> 本开源书 forked from [面向程序员的数据挖掘指南](https://github.com/yourtion/DataminingGuideBook)，作者为 [yourtion](https://github.com/yourtion)，欢迎大家 star 原作者的 [repo](https://github.com/yourtion/DataminingGuideBook)，以便获得最新更新，谢谢！
+
 作者：[Ron Zacharski](http://zacharski.org/) [CC BY-NC 3.0](http://i.creativecommons.org/l/by-nc/3.0/80x15.png)]
 https://github.com/egrcc/guidetodatamining
 
